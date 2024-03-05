@@ -1,5 +1,5 @@
 const key = "0d0a0aa6aa824bb1a0784628240403";
-const base_url = `https://api.weatherapi.com/v1/current.json?key=${key}&q=Delhi&aqi=yes`;
+const base_url = `https://api.weatherapi.com/v1/current.json`;
 
 const btn = document.querySelector(".btn");
 const cityName = document.querySelector(".city-name");
